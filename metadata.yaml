@@ -1,11 +1,16 @@
 _repo: Key-and-Guide-to-Native-Trees-Shrubs-and-Woody-Vines-of-Dallas-County_58703
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58703-h/images/cover.jpg
 creator:
   author:
     agent_name: Stillwell, Norma J.
     gutenberg_agent_id: '50109'
     url: http://www.gutenberg.org/2009/agents/50109
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58703#Key-and-Guide-to-Native-Trees-Shrubs-and-Woody-Vines-of-Dallas-County
 gutenberg_issued: '2019-01-16'
 gutenberg_type: Text
 identifiers:
